@@ -1,0 +1,8 @@
+{
+  "name": "codeswag-map",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
